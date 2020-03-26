@@ -14,3 +14,7 @@ cd $SiamMask/experiments/siammask_sharp
 export PYTHONPATH=$PWD:$PYTHONPATH
 ``` 
 4. run tracking_demo.py
+
+Example of tracking result
+
+![0](res/animated.gif)
